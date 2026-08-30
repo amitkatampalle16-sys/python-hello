@@ -1,2 +1,3 @@
 print("Hello Amit! Python is working successfully in your jenkins") 
 print("Hello Amit! i am update a code ") 
+print("Hello Amit! i am added a auto pull function ")
